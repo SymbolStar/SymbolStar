@@ -1,6 +1,6 @@
 # Hi, I'm SymbolStar 👋
 
-📍 **China** | 📱 **Mobile Developer**
+📍 **China** | 📱 **Mobile Developer** | 🤖 **AI Agent Tinkerer**
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -13,13 +13,20 @@
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Metal](https://img.shields.io/badge/-Metal-8E8E93?style=flat-square&logo=apple&logoColor=white)
 
-> Crafting native mobile experiences and exploring the intersection of graphics, AI, and app development.
+> Crafting native mobile experiences and exploring the intersection of graphics, AI agents, and developer tooling.
 
 ## What I'm Doing
 
-- 📱 **Mobile Development** — Building native Android & iOS apps with a focus on performance and user experience
-- 🎨 **Graphics Programming** — Diving deep into SceneKit, Metal, and computer graphics on iOS
-- 🤖 **AI Exploration** — Experimenting with AI-powered tools and face tracking technologies
+- 🤖 **AI Agents & MCP** — Building MCP servers and tooling around AI coding agents (OpenClaw, Claude Code, etc.)
+- 📱 **Mobile Development** — Native Android & iOS apps with focus on performance and UX
+- 🎨 **Graphics Programming** — Diving into SceneKit, Metal, and the iOS rendering pipeline
+
+## 🆕 Recent Work
+
+- 📬 **[gmail-mcp](https://github.com/SymbolStar/gmail-mcp)** — MCP stdio server that lets AI assistants read your Gmail (list / get / search / labels). OAuth read-only.
+  - npm: [`@symbolstar/gmail-mcp`](https://www.npmjs.com/package/@symbolstar/gmail-mcp) — `npx @symbolstar/gmail-mcp auth`
+- 🦗 **[hopper](https://github.com/SymbolStar/hopper)** — Lightweight task pool for multi-agent coordination. MCP server + CLI, SQLite-backed, optimistic concurrency, dependency tracking.
+- 🧠 **[synapse](https://github.com/SymbolStar/synapse)** — Local MCP server that indexes AI coding sessions (Claude Code / OpenCode / OpenClaw) into one searchable database. Shared memory across tools.
 
 ## Featured Projects
 
@@ -32,8 +39,8 @@
 
 ## Interests
 
+- 🤖 AI agents、MCP 协议、agent 间协作
 - 🧊 计算机图形学 & GPU 渲染管线
-- 🤖 AI/ML 在移动端的应用（面部追踪、Mediapipe）
 - 📱 跨平台移动开发
 - 🛠️ 开发者工具与效率提升
 
