@@ -15,6 +15,15 @@
 
 > Crafting native mobile experiences and exploring the intersection of graphics, AI agents, and developer tooling.
 
+## 🌍 Open Source Contributions
+
+Contributor to:
+
+- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Personal AI assistant, any OS / any platform _(4 merged PRs)_
+- 🤖 **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — Accessible AI for everyone _(2 merged PRs)_
+- 🔁 **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation with native AI
+- 💬 **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — User-friendly AI interface (Ollama / OpenAI API)
+
 ## What I'm Doing
 
 - 🤖 **AI Agents & MCP** — Building MCP servers and tooling around AI coding agents (OpenClaw, Claude Code, etc.)
