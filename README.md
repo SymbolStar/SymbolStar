@@ -37,6 +37,13 @@ Contributor to:
 - 🦗 **[hopper](https://github.com/SymbolStar/hopper)** — Lightweight task pool for multi-agent coordination. MCP server + CLI, SQLite-backed, optimistic concurrency, dependency tracking.
 - 🧠 **[synapse](https://github.com/SymbolStar/synapse)** — Local MCP server that indexes AI coding sessions (Claude Code / OpenCode / OpenClaw) into one searchable database. Shared memory across tools.
 
+## 🧩 Published Skills
+
+OpenClaw agent skills I've published on [ClawHub](https://clawhub.ai):
+
+- 🧹 **[xcode-cache-cleaner](https://clawhub.ai/symbolstar/xcode-cache-cleaner)** — Scan and clean build caches for iOS/macOS developers. First-class Xcode support (DerivedData, iOS/watchOS/tvOS/macOS DeviceSupport, CoreSimulator) plus per-project cleanup (SPM, Pods, node_modules, Gradle, Rust, Python).
+  - Install: `clawhub install xcode-cache-cleaner`
+
 ## Featured Projects
 
 - 📐 **[iOS-Graphics-Learning](https://github.com/SymbolStar/iOS-Graphics-Learning)** — iOS 图形学从入门到专家：SceneKit → Metal，六阶段系统学习路径
