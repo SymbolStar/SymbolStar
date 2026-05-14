@@ -32,6 +32,10 @@ Contributor to:
 
 ## 🆕 Recent Work
 
+- 🐦 **[magpie](https://github.com/SymbolStar/magpie)** — Lightweight A-share monitoring daemon: watchlist, price & fund-flow alerts, K-line, 龙虎榜, agent-friendly HTTP API. Feishu notifier + OpenClaw skill integration.
+  - npm: [`@symbolstar/magpie`](https://www.npmjs.com/package/@symbolstar/magpie) · ClawHub: `clawhub install magpie`
+- 🚢 **[shipcheck](https://github.com/SymbolStar/shipcheck)** — Best-effort pre-publish PII & secret check for npm packages, OpenClaw skills, and local repos. Catches leaked tokens, emails, identities before you `npm publish`.
+  - npm: [`@symbolstar/shipcheck`](https://www.npmjs.com/package/@symbolstar/shipcheck)
 - 📬 **[gmail-mcp](https://github.com/SymbolStar/gmail-mcp)** — MCP stdio server that lets AI assistants read your Gmail (list / get / search / labels). OAuth read-only.
   - npm: [`@symbolstar/gmail-mcp`](https://www.npmjs.com/package/@symbolstar/gmail-mcp) — `npx @symbolstar/gmail-mcp auth`
 - 🦗 **[hopper](https://github.com/SymbolStar/hopper)** — Lightweight task pool for multi-agent coordination. MCP server + CLI, SQLite-backed, optimistic concurrency, dependency tracking.
