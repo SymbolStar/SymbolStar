@@ -47,6 +47,8 @@ OpenClaw agent skills I've published on [ClawHub](https://clawhub.ai):
 
 - 🧹 **[xcode-cache-cleaner](https://clawhub.ai/symbolstar/xcode-cache-cleaner)** — Scan and clean build caches for iOS/macOS developers. First-class Xcode support (DerivedData, iOS/watchOS/tvOS/macOS DeviceSupport, CoreSimulator) plus per-project cleanup (SPM, Pods, node_modules, Gradle, Rust, Python).
   - Install: `clawhub install xcode-cache-cleaner`
+- 🪟 **[agent-tab-title](https://clawhub.ai/symbolstar/agent-tab-title)** — Local zero-build patch for OpenClaw Control UI: makes the browser tab title follow the active agent (e.g. `Milly · OpenClaw`) so multi-agent operators can disambiguate tabs in the browser tab strip and Cmd-` switcher. Mirrors upstream PR [openclaw/openclaw#80944](https://github.com/openclaw/openclaw/pull/80944) as an out-of-tree override.
+  - Install: `clawhub install agent-tab-title`
 
 ## Featured Projects
 
