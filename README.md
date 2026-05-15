@@ -49,6 +49,8 @@ OpenClaw agent skills I've published on [ClawHub](https://clawhub.ai):
   - Install: `clawhub install xcode-cache-cleaner`
 - 🪟 **[agent-tab-title](https://clawhub.ai/symbolstar/agent-tab-title)** — Local zero-build patch for OpenClaw Control UI: makes the browser tab title follow the active agent (e.g. `Milly · OpenClaw`) so multi-agent operators can disambiguate tabs in the browser tab strip and Cmd-` switcher. Mirrors upstream PR [openclaw/openclaw#80944](https://github.com/openclaw/openclaw/pull/80944) as an out-of-tree override.
   - Install: `clawhub install agent-tab-title`
+- 🔔 **[echo-cue](https://clawhub.ai/symbolstar/echo-cue)** — Local zero-build patch for OpenClaw Control UI: plays a short two-tone Web Audio chime (A5 → E5, ~900ms) when an assistant reply finishes streaming, so you notice replies even from a background tab. Locally nicknamed **echo**. Stop-gap mirror of upstream PR [openclaw/openclaw#73894](https://github.com/openclaw/openclaw/pull/73894) (issue [#69186](https://github.com/openclaw/openclaw/issues/69186)); auto-skips itself once upstream lands.
+  - Install: `clawhub install echo-cue`
 
 ## Featured Projects
 
