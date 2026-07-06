@@ -60,15 +60,6 @@ OpenClaw agent skills I've published on [ClawHub](https://clawhub.ai):
 - 🔔 **[echo-cue](https://clawhub.ai/symbolstar/echo-cue)** — Local zero-build patch for OpenClaw Control UI: plays a short Web Audio chime when an assistant reply finishes streaming, so you notice replies even from a background tab. In-page floating 🔔 picker with 11 sound presets (Basic / Animal Crossing / Super Mario / Retro) and per-row Preview. Locally nicknamed **echo**. Stop-gap mirror of upstream PR [openclaw/openclaw#73894](https://github.com/openclaw/openclaw/pull/73894) (issue [#69186](https://github.com/openclaw/openclaw/issues/69186)); auto-skips itself once upstream lands.
   - Source: [SymbolStar/echoCue](https://github.com/SymbolStar/echoCue) · Install: `clawhub install echo-cue`
 
-## Featured Projects
-
-- 📐 **[iOS-Graphics-Learning](https://github.com/SymbolStar/iOS-Graphics-Learning)** — iOS 图形学从入门到专家：SceneKit → Metal，六阶段系统学习路径
-- 🚀 **[FastDevAndroid](https://github.com/SymbolStar/FastDevAndroid)** — Android 快速开发库，集成网络请求、支付、地图、推送、二维码等
-- 📖 **[BrightBook](https://github.com/SymbolStar/BrightBook)** — Material Design + MVP 架构的 Android 阅读应用
-- 🎯 **[CustomizeView](https://github.com/SymbolStar/CustomizeView)** — Android 自定义 View 知识点汇总与动画特效
-- 🔧 **[ScottLog](https://github.com/SymbolStar/ScottLog)** — Android 日志工具
-- 🍕 **[AndroidSlices](https://github.com/SymbolStar/AndroidSlices)** — Android Slices 示例与实践
-
 ## Interests
 
 - 🤖 AI agents、MCP 协议、agent 间协作
