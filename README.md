@@ -44,6 +44,11 @@ Contributor to:
 - 🦗 **[hopper](https://github.com/SymbolStar/hopper)** — Lightweight task pool for multi-agent coordination. MCP server + CLI, SQLite-backed, optimistic concurrency, dependency tracking.
 - 🧠 **[synapse](https://github.com/SymbolStar/synapse)** — Local MCP server that indexes AI coding sessions (Claude Code / OpenCode / OpenClaw) into one searchable database. Shared memory across tools.
 
+### 🔒 Private (in-progress)
+
+- ⌨️ **SymbolInput** _(private)_ — macOS menu-bar tool: click into any app's text field, describe what you want in Chinese in a floating panel, and get the correct English written back automatically. Multi-provider (local Anthropic-/OpenAI-/Ollama-style + DeepSeek), streaming, Accessibility-based text injection, Option+A to grab selected text.
+- 🏥 **FamilyHealth** _(private)_ — iOS app for managing a family's medicines and medical records. Auto-intake from photos (VisionKit + OCR), structured medicine/record parsing (date, hospital, department, diagnosis), SwiftData persistence, per-family-member scoping.
+
 ## 🧩 Published Skills
 
 OpenClaw agent skills I've published on [ClawHub](https://clawhub.ai):
