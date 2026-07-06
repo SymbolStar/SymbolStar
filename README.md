@@ -32,6 +32,9 @@ Contributor to:
 
 ## 🆕 Recent Work
 
+- 🔨 **[OpenForge](https://github.com/SymbolStar/OpenForge)** — Multi-agent task tracker for OpenClaw. Threads are tasks, `@agent` assigns the next worker, Slack-style three-pane UI, JSONL event log, zero runtime dependencies. Turns a shared inbox into a durable work queue for cooperating AI agents.
+- 🎨 **[dashboard-design-system](https://github.com/SymbolStar/dashboard-design-system)** — Tiny design tokens + utility classes for data dashboards. Light/dark themes, 4px grid, status colors, no build step — drop the CSS in and go.
+- 📊 **[gemma4-mac-mini-bench](https://github.com/SymbolStar/gemma4-mac-mini-bench)** — Full benchmark of Google Gemma 4 (E4B + 12B) on Mac mini M4 / 32GB: short tasks, long-context, vision, OpenCode integration, and the pitfalls you hit along the way.
 - 🐦 **[magpie](https://github.com/SymbolStar/magpie)** — Lightweight A-share monitoring daemon: watchlist, price & fund-flow alerts, K-line, 龙虎榜, agent-friendly HTTP API. Feishu notifier + OpenClaw skill integration.
   - npm: [`@symbolstar/magpie`](https://www.npmjs.com/package/@symbolstar/magpie) · ClawHub: `clawhub install magpie`
 - 🚢 **[shipcheck](https://github.com/SymbolStar/shipcheck)** — Best-effort pre-publish PII & secret check for npm packages, OpenClaw skills, and local repos. Catches leaked tokens, emails, identities before you `npm publish`.
@@ -49,8 +52,8 @@ OpenClaw agent skills I've published on [ClawHub](https://clawhub.ai):
   - Install: `clawhub install xcode-cache-cleaner`
 - 🪟 **[agent-tab-title](https://clawhub.ai/symbolstar/agent-tab-title)** — Local zero-build patch for OpenClaw Control UI: makes the browser tab title follow the active agent (e.g. `Milly · OpenClaw`) so multi-agent operators can disambiguate tabs in the browser tab strip and Cmd-` switcher. Mirrors upstream PR [openclaw/openclaw#80944](https://github.com/openclaw/openclaw/pull/80944) as an out-of-tree override.
   - Install: `clawhub install agent-tab-title`
-- 🔔 **[echo-cue](https://clawhub.ai/symbolstar/echo-cue)** — Local zero-build patch for OpenClaw Control UI: plays a short two-tone Web Audio chime (A5 → E5, ~900ms) when an assistant reply finishes streaming, so you notice replies even from a background tab. Locally nicknamed **echo**. Stop-gap mirror of upstream PR [openclaw/openclaw#73894](https://github.com/openclaw/openclaw/pull/73894) (issue [#69186](https://github.com/openclaw/openclaw/issues/69186)); auto-skips itself once upstream lands.
-  - Install: `clawhub install echo-cue`
+- 🔔 **[echo-cue](https://clawhub.ai/symbolstar/echo-cue)** — Local zero-build patch for OpenClaw Control UI: plays a short Web Audio chime when an assistant reply finishes streaming, so you notice replies even from a background tab. In-page floating 🔔 picker with 11 sound presets (Basic / Animal Crossing / Super Mario / Retro) and per-row Preview. Locally nicknamed **echo**. Stop-gap mirror of upstream PR [openclaw/openclaw#73894](https://github.com/openclaw/openclaw/pull/73894) (issue [#69186](https://github.com/openclaw/openclaw/issues/69186)); auto-skips itself once upstream lands.
+  - Source: [SymbolStar/echoCue](https://github.com/SymbolStar/echoCue) · Install: `clawhub install echo-cue`
 
 ## Featured Projects
 
